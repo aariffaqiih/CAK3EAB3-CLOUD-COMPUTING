@@ -1,5 +1,5 @@
 # Node A: pengirim pesan lewat Reticulum ke Node B
-# Pemakaian: python node_a.py <hash_destination_B> "isi pesan"
+# Pemakaian: python node_a.py HASH_DESTINATION_B "isi pesan"  (tulis hash apa adanya, tanpa tanda < >)
 
 # argparse: modul bawaan Python, berfungsi untuk membaca argumen dari command line (hash tujuan dan isi pesan)
 import argparse
